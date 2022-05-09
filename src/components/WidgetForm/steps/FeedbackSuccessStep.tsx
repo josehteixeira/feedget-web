@@ -18,7 +18,7 @@ export function FeedbackSuccessStep({ onFeedbackRestartRequested }: FeedbackSucc
                     <path d="M31.78 8.36202C30.624 7.61102 29.076 7.94002 28.322 9.09802L17.436 25.877L12.407 21.227C11.393 20.289 9.811 20.352 8.874 21.365C7.937 22.379 7.999 23.961 9.013 24.898L16.222 31.564C16.702 32.009 17.312 32.229 17.918 32.229C18.591 32.229 19.452 31.947 20.017 31.09C20.349 30.584 32.517 11.82 32.517 11.82C33.268 10.661 32.938 9.11302 31.78 8.36202Z" fill="white" />
                 </svg>
 
-                <span className="text-xl mt-2">Agrademos o feedback!</span>
+                <span className="text-xl mt-2">Agradecemos o feedback!</span>
 
                 <button
                     type="button"
